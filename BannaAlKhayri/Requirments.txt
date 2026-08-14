@@ -1,0 +1,24 @@
+I've attached the *WebsiteContent.md*, which is now the master content document for the new Banna Al Khayri website.
+
+Please use this version as the primary source for all website content and disregard any previous drafts unless I specifically tell you otherwise.
+
+For now, I'd like us to focus only on Phase 1 of the website, which includes the following pages:
+
+1. Homepage
+2. About Us
+3. Our Story
+4. How We Work
+5. Islamic Giving
+6. Orphan Sponsorship
+7. Where Most Needed
+8. Donate
+9. Contact
+
+Once these pages are complete and we've reviewed them together, we'll move on to the remaining pages.
+
+Please don't rewrite, shorten or change the wording without discussing it with me first. The content has been carefully developed to balance storytelling, donor trust, governance, compliance and SEO. If you think something could be presented better from a design or user experience perspective, I'd really appreciate your suggestions before making any changes.
+
+For now, please use placeholder images, videos and graphics where needed. I'll provide all of the final media assets as we progress.
+
+The overall look and feel I'm aiming for is clean, modern, premium and easy to navigate, with a strong focus on trust, simplicity and readability. I'd much rather build a beautiful first phase properly than try to complete the whole website at once.
+

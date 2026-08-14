@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/waqas/**)",
+      "Read(//c/Users/waqas/.ssh/**)",
+      "WebFetch(domain:www.bannaalkhayri.org)",
+      "Bash(ssh bannaalkhayri *)",
+      "Bash(curl -s -A \"Mozilla/5.0\" https://pink-curlew-962546.hostingersite.com/)",
+      "Bash(python3 *)",
+      "Bash(scp *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" \"https://silver-pony-466242.hostingersite.com/?page_id=7919\")",
+      "Bash(curl -s -L -A \"Mozilla/5.0\" \"https://silver-pony-466242.hostingersite.com/?page_id=7919\" -o /tmp/test-page.html -w \"final_status=%{http_code} final_url=%{url_effective}\\\\n\")",
+      "Read(//tmp/**)",
+      "Bash(curl -s -A \"Mozilla/5.0\" \"https://silver-pony-466242.hostingersite.com/home-rebuild-test/\" -o /tmp/test-page2.html -w \"status=%{http_code}\\\\n\")",
+      "Bash(curl -s -A \"Mozilla/5.0\" \"https://silver-pony-466242.hostingersite.com/home-rebuild-test/\" -o /tmp/test-page3.html -w \"status=%{http_code}\\\\n\")",
+      "Bash(curl -s -A \"Mozilla/5.0\" \"https://silver-pony-466242.hostingersite.com/home-rebuild-test/\" -o /tmp/test-page4.html -w \"status=%{http_code}\\\\n\")",
+      "Bash(curl -s -A \"Mozilla/5.0\" \"https://pink-curlew-962546.hostingersite.com/\" -o /tmp/prod-home.html -w \"status=%{http_code}\\\\n\")",
+      "Bash(curl -s -A \"Mozilla/5.0\" \"https://silver-pony-466242.hostingersite.com/\" -o /tmp/ref-home.html -w \"status=%{http_code}\\\\n\")",
+      "Bash(node inspect.js silverpony-84-reference.json Banner)",
+      "Bash(node -e ' *)",
+      "Bash(node inspect.js silverpony-84-reference.json Service)",
+      "Bash(node inspect.js silverpony-84-reference.json About)",
+      "Bash(node inspect.js silverpony-84-reference.json cta)",
+      "Bash(node inspect.js silverpony-84-reference.json)",
+      "Bash(node inspect.js silverpony-84-reference.json \"cta two\")",
+      "Bash(node inspect.js silverpony-84-reference.json Story)",
+      "Bash(curl -s -A \"Mozilla/5.0\" \"https://pink-curlew-962546.hostingersite.com/\" -o /tmp/prod-swapped.html -w \"status=%{http_code}\\\\n\")"
+    ]
+  }
+}
