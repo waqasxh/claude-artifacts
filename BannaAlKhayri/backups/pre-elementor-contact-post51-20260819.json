@@ -1,0 +1,32 @@
+{
+    "post_content": "<!-- wp:html -->\n<div class=\"p1-hero-plain\">\n  <h2>Get in touch<\/h2>\n  <p>Complete the form and a member of our team will contact you within 24\u201348 hours.<\/p>\n<\/div>\n<!-- \/wp:html -->\n\n<!-- wp:html -->\n<div class=\"p1-page-wide p1-section\">\n  <div style=\"display:grid;grid-template-columns:1fr 1.3fr;gap:40px;align-items:start;\">\n    <div>\n      <h2>Contact details<\/h2>\n      <div class=\"p1-trust-item\" style=\"margin-bottom:16px;\">\n        <strong>Address<\/strong>\n        <p>Suite RA01, 195-197 Wood Street<br>London, E17 3NU<br>United Kingdom<\/p>\n      <\/div>\n      <div class=\"p1-trust-item\" style=\"margin-bottom:16px;\">\n        <strong>Phone<\/strong>\n        <p><a href=\"tel:+447581063577\">+44 7581 063577<\/a><\/p>\n      <\/div>\n      <div class=\"p1-trust-item\" style=\"margin-bottom:16px;\">\n        <strong>Email<\/strong>\n        <p><a href=\"mailto:contact@bannaalkhayri.org.uk\">contact@bannaalkhayri.org.uk<\/a><\/p>\n      <\/div>\n      <div class=\"p1-trust-item\">\n        <strong>Registered Charity No. 1214384<\/strong>\n        <p>A Charitable Incorporated Organisation registered in England and Wales.<\/p>\n      <\/div>\n      <p style=\"margin-top:20px;\">\n        <a href=\"https:\/\/www.facebook.com\/share\/1CYhgK1z9g\/\" style=\"margin-right:14px;\">Facebook<\/a>\n        <a href=\"https:\/\/www.instagram.com\/banna_alkhayri\/\" style=\"margin-right:14px;\">Instagram<\/a>\n        <a href=\"https:\/\/www.tiktok.com\/@bannaalkhayrirelief\">TikTok<\/a>\n      <\/p>\n    <\/div>\n    <div class=\"p1-give-wrap\">\n      <h2 style=\"margin-top:0;\">Send us a message<\/h2>\n      [contact-form-7 id=\"7\"]\n    <\/div>\n  <\/div>\n<\/div>\n<!-- \/wp:html -->\n",
+    "meta": {
+        "_wp_page_template": [
+            "template-builder.php"
+        ],
+        "_donat_page_breadcrumb_area": [
+            "1"
+        ],
+        "_donat_page_breadcrumb_settings": [
+            "global"
+        ],
+        "_donat_page_title": [
+            "1"
+        ],
+        "_donat_page_title_settings": [
+            "default"
+        ],
+        "_elementor_template_type": [
+            "wp-page"
+        ],
+        "_elementor_global_class_usage_indexed": [
+            "1"
+        ],
+        "_elementor_page_assets": [
+            "a:0:{}"
+        ],
+        "_edit_lock": [
+            "1787165141:1"
+        ]
+    }
+}
